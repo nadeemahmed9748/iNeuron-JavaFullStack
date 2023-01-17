@@ -1,5 +1,5 @@
 ## iNeuron-JavaFullStack
-# Full Stack Java assignment
+# Full Stack Java Development
 
 ## Steps to Setup or download the assignment
 
