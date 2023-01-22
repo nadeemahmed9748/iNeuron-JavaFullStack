@@ -13,13 +13,13 @@ class Calculator4
 		return a+b+c;
 	}
 }
-public class LaunchMOSC2 {
+public class MethodOverloading {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		Calculator4 cal=new Calculator4();
-		System.out.println(cal.add(10, 20));
+		System.out.println(cal.add(10.5f, 20));
 
 	}
 

@@ -45,13 +45,13 @@ class Calculator2
 }
 
 
-public class LaunchMO {
+public class MethodObjCall {
 
 	public static void main(String[] args) {
 		
 		Calculator2 calc=new Calculator2();
 		int a=10 ,b=30, c=20;
-		float m=10.5f, n=20.5f, o=30.5f;
+		float m=10.5f, n=20.5f;
 		double x=15.5, y=25.5, z=35.5;
 		
 		

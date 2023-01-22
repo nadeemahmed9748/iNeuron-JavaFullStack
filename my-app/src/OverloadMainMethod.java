@@ -1,7 +1,7 @@
 // Can we overload main method in Java?
 
 
-public class LaunchMOMain {
+public class OverloadMainMethod {
 
 	public static void main(String[] args) 
 	{

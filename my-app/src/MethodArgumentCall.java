@@ -13,7 +13,7 @@ class Display
 		System.out.println(age);
 	}
 }
-public class LaunchMOG {
+public class MethodArgumentCall {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

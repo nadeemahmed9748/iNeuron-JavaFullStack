@@ -12,12 +12,16 @@ class Calculator5
 		return a+c;
 	}
 }
-public class LaunchMOCS3 {
+public class TypeCast {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
     Calculator5 cal=new Calculator5();
-    cal.add(10, 20);
+    float fVal = cal.add(10, 20f);
+    
+    int val = (int) cal.add(10, 20f); // Type cast from float to int
+    
+    System.out.println(fVal +" <--> "+ val);
 	}
 
 }
