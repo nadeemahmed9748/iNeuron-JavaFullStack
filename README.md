@@ -24,3 +24,5 @@ git clone https://github.com/nadeemahmed9748/iNeuron-JavaFullStack.git
 3. WAP to print pattern
 4. WAP to print pattern
 5. WAP to print pattern
+
+#Collection Framework
